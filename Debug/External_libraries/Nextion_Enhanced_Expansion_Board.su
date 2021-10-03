@@ -1,0 +1,2 @@
+Nextion_Enhanced_Expansion_Board.c:23:9:Nextion_Enhanced_Expansion_Board_configureGPIO	32	static
+Nextion_Enhanced_Expansion_Board.c:44:9:Nextion_Enhanced_Expansion_Board_pinState	24	static
